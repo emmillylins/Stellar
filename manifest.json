@@ -1,0 +1,22 @@
+{
+  "background_color": "#ffffff",
+  "description": "Um site responsivo para ajudar nos estudos.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "aprendendocomestellar.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "aprendendocomestellar.netlify",
+  "start_url": "/",
+  "theme_color": "#935d8c",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "images/a.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "shortcuts": []
+}

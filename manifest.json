@@ -20,6 +20,12 @@
       "src": "images/appstore.png",
       "type": "image/png",
       "sizes": "1024x1024"
+    },
+    {
+      "src": "images/appstore.png",
+      "type": "download.webp",
+      "sizes": "any",
+      "purpose": "any"
     }
   ],
   "shortcuts": [],

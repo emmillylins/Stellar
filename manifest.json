@@ -17,7 +17,7 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "Appicons/appstore.png",
+      "src": "images/appstore.png",
       "type": "image/png",
       "sizes": "180x180"
     }

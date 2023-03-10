@@ -1,22 +1,28 @@
 {
   "background_color": "#ffffff",
-  "description": "Um site responsivo para ajudar nos estudos.",
+  "description": "Aprendendo e se divertindo.",
   "dir": "ltr",
   "display": "standalone",
   "name": "aprendendocomestellar.netlify",
-  "orientation": "any",
+  "orientation": "natural",
   "scope": "/",
   "short_name": "aprendendocomestellar.netlify",
-  "start_url": "/",
+  "start_url": "https://aprendendocomestellar.netlify.app/",
   "theme_color": "#935d8c",
-  "categories": [],
+  "categories": [
+    "education",
+    "kids",
+    "productivity"
+  ],
   "screenshots": [],
   "icons": [
     {
-      "src": "images/a.png",
+      "src": "Appicons/appstore.png",
       "type": "image/png",
       "sizes": "180x180"
     }
   ],
-  "shortcuts": []
+  "shortcuts": [],
+  "lang": "pt",
+  "prefer_related_applications": false
 }

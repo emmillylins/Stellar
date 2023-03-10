@@ -61,5 +61,11 @@
   ],
   "shortcuts": [],
   "lang": "pt",
-  "prefer_related_applications": false
+  "prefer_related_applications": false,
+  "display_override": [
+    "fullscreen",
+    "minimal-ui",
+    "standalone"
+  ],
+  "iarc_rating_id": "06-60"
 }

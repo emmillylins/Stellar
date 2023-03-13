@@ -1,12 +1,13 @@
 {
+"protocol_handlers": [{"protocol":"mailto","url":"/newEmail?to=%s"}], 
+  "name": "aprendendocomestellar.netlify",
+  "short_name": "aprendendocomestellar.netlify",
   "background_color": "#ffffff",
   "description": "Aprendendo e se divertindo.",
   "dir": "ltr",
   "display": "standalone",
-  "name": "aprendendocomestellar.netlify",
   "orientation": "natural",
   "scope": "/",
-  "short_name": "aprendendocomestellar.netlify",
   "start_url": "https://aprendendocomestellar.netlify.app/",
   "theme_color": "#935d8c",
   "categories": [
@@ -59,13 +60,22 @@
       "purpose": "any"
     }
   ],
-  "shortcuts": [],
+  "shortcuts": [
+    {
+      "name": "Start Live Session",
+      "short_name": "Start Live",
+      "description": "Jump direction into starting or joining a live session",
+      "url": "/?startLive",
+      "icons": [
+        {
+          "src": "https://pwabuilder.com/assets/icons/icon_192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
   "lang": "pt",
   "prefer_related_applications": false,
-  "display_override": [
-    "fullscreen",
-    "minimal-ui",
-    "standalone"
-  ],
+  "display_override": ["window-controls-overlay"],
   "iarc_rating_id": "06-60"
 }

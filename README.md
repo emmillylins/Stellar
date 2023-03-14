@@ -1,6 +1,6 @@
 # Stellar
 Um site responsivo que se propõe a ajudar nos estudos.
-link: https://aprendendocomestellar.netlify.app/
+Link: https://aprendendocomestellar.netlify.app/
 
 # Problema
 Na era da tecnologia e do constante bombardeamento digital, aprender talvez possa parecer desinteressante para as crianças, o que faz surgir a necessidade de integração entre esse mundo digital e a diversão das telinhas.
